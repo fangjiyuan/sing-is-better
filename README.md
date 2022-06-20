@@ -19,3 +19,8 @@ number = 10 #一次查询返回的歌曲条数
 # 演示视频:
 https://user-images.githubusercontent.com/36502693/174580645-7a95f5b7-4d3e-49de-9ded-98dd1face1d3.mp4
 
+
+
+#感谢music-dl项目
+https://github.com/0xHJK/music-dl
+
