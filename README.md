@@ -12,7 +12,7 @@ pip3 install pydub
 
 keyword = '一件黑色毛衣'#请输入关键词
 
-source = ['kugou'] #暂时只写了酷狗
+source = ['kugou','netease'] #暂时只写了酷狗和网易
 
 ourdir = '/home/fangjiyuan/github_file/LRC/'#需要自定义输出文件夹
 
