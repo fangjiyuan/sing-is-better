@@ -6,6 +6,15 @@
 
 pip3 install pymusic-dl
 
+建议手动安装获取最新更新
+
+$ git clone https://github.com/0xHJK/music-dl.git
+
+$ cd music-dl
+
+$ python3 setup.py install
+
+
 pip3 install pydub
 
 然后修改主程序里的对应内容
