@@ -2,7 +2,7 @@
 根据歌词搜索歌曲片断
 
 # 使用方法
-需要安装music-dl 
+需要安装的依赖
 
 pip3 install pymusic-dl
 
